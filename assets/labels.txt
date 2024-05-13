@@ -1,0 +1,5 @@
+-0 oregano
+1 insulin
+2 guava
+3 lagundi
+4 sambong
